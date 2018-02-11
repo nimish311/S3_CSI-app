@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\49bab05ba37f6c91f91d66c98bb87d0f42a5f7a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_f06e782b5801fa9d0e41e2f4a50ef2101fe83a8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\76b862e511d82f85ef77c82c70e09413e694c603\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_3a2b240aec2da29eb549d1ef0e5956410059ec84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\e410c2bc2c7b098cfd01d37ad6d73a9e524a2aba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_11f51de4fc3e27229f4fc2312e819078574e84af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\5d76dc21e29fbd7d43ddcf0836c2a80190abf68d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_c1834e265feb15aac1c2019b218f2552156122ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\623b1f612ff6451ce76ff7848a48a047ae4b0762\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_24a50e0d996b3c5780da35e80f15d66f0f86e0be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\26ad9bc06eb3f148b13a9f2d8a3636bfb3edb208\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_d01805745d733cab8883ae6c4e79181e5519b3b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\33872a93429eea2fbfb095cbe6000a76784f0ef5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_2dc5092eb71e9b34dc73c932ecf564c21e178d6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\8922ba743979f2ccdea4b9d818aca58f56e9eaad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_2a86d198ffed8f054763063b083f37caaf825ab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\b5b3abc056d9e83599994d8ab5160657aedd1c84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_a746a2e5bb2252112d8a4b73e11618cbba8a476b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\4b8d721eee062c86c526d03803dd7457067d609e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_16d23fd611880a006ed8feca7f02367db86b0d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\0b7e0586b4af8c3d4f449d6c8d2ddaf5e15e36fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_733b6cfcbcd7dd379df58da0f74b5479396a730d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\585c1f15957778da8cd671c73f18bbe280788ad7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_6974a060b5f544f11e2fede10a3673725cc8252f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\5c16ab17b25f59bbebd16764741fb1226e2853c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_6bfe1d22dce460983a1bd6ed0f85dd00eb3a2c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\8dea2562182760dceb3d3033cf268ae2f5717147\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_8209ca3cb4947fc5b0ab1bb1c6447e59fef353a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\5d339ccea4150263cdcebafe25552ad68404cded\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_d08b6ae2d29c266703f36395111f60d68169e4a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\88460764ef381e6ec3ae99231fe60462a53cfaa5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_0cdd0982b692b92504a61ae6e036ac6678e0a24e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\ac1a4e3769f8c4bde63937798d522acc8e2fb63a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_dbb556bf7de487f09b86cfa7e4765b047a48e13d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\089c27fa6a49f18590baf646992971ed30033e24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_c131427607b8eab34cb467b6fd91ae6441fedb6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\a30e938854e030bd9dab1a9906741e56808f5eea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_1dfeac8a162630a358af58d7bea4a0d7b7d17555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\f5cb9b0b3b5966a4d82b583873227fb8ed5bcf92\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_b873c5ef7d7da19f9128bb349926b14564dd85b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\a0d8d68380abd368b903b83f89ca88ad83ba6264\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_0866f5e88e2a8360deec2870b9195ec2ff474c33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\7ff703e8d8f8e7dd25492457d58ca48456f2a527\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_bd933cbc23c475f88495286a53e3f73d19d66be1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\aee5281e0df4ef23109bfaea8db43729cfb0e5a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_0f2a33b86f0fc9f3d59dd5c5af8cfd019067a1b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\1d531d64a4939b31aeb20131b74ee47ad12eca54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_4ccff319d72c735db8e1584ab343959cca9c615c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\7f3113192e395a8aa38ce4bfbbbeda4d98b4780f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_d8e08d7bb8b7284ee6e63e8c9818fa15d9c83ba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\228f1f24a67572173e9d8392cdc1bfab4121e153\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_127dab8a5e475f1e594ebb6f23830b0854c62c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\25a086468295dd45e3aa4f3286dbae82130af14f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_7c0e0a9c8ab1305aabf97c862e7651ee69e8c368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\f284c47ac8d256777b9d78760da0d00299e2fae7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_0a8543e654217d03eee35029dcd1cd146b5d0f40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\374379f4342f95ad1f4a8ad0a0ca1f6d17152e5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_941c54cf32c65bcb301b240cd9f8b25421d66246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\ed5da1829a7abf4b6309c26c4859216a6ebe50ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_010504fe98bbb8d07f638ad052150ecf5e9394e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\c012068a7b5e5f9474352729036a582056138118\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_370e5cc57b986cf8a8e679bbc22a53af9bf34ffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\00f55706587b52da33eeb46d2aea64982d94c08e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_d74611ee43a81fbbada98250ff99aec2ca420927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\ef42190a949ec0511ff26347ca7779cfd5974758\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_ff8999a4c46a1b8d654f0e9ec3645b2b2e79a318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\4765618f5fed3e9f1c86829c77b628603bbfc61d\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_b6f206fbb7681c7ba0f1ba5614d946deda29982f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\c66c827d944cff9322b684cb366ab36dfff94513\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_b5b57b7ec8e9c9acdcc9c59ab00b815d3951658a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\5328a4e5d741319344db554e78b5e745ced23954\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_92ef19da14dd620345c2776f233b8c8acef444d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\e45c7a03941a8a6d3a94671fdc32d73acc7c7e14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_93b2714bf43d49e843f8c7165f5fcf35d2ecdf5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\8f569016ede0fb42266f34aa9782c098c15c5487\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_5e1180e650ec5547dc6e00b5cb8555f254b44dd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\60b0a83f30edf0b5bb89d5110c629a5176d95f3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_fabdcffd0ca9d122306de4b4d0f735cb0477dd13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\92dbcef5f94a908aec135c5769e9d65a41bb5bd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_678a2754d3b5e90ba25e887417f11e8abed47daf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\28c3e46c39ca8f0a3fc997b77d12edf28bd13eee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_53c45b677fcfff0d0a68c559bf55de1dd451e62d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\0ca3dfec5fbaa2c0a651a09cb5f167eb242cb450\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_4cb456d47271ba1f871b0fad5a2ba67c7215663b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\8a10a28cec6b6d6267b6acf262aa56cb28cf138d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_f012c941b5b845ee0a4dde964de6754e12b6b37c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\f447909fcf69652c88b8e428b186fe18f596fe71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_01128ebedf79a780e8dcb33910afdaae7f45d51d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\1892fc9d5226c289f4c7fe06d9331818692733d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_7e9df7d32379bb10985bccdeab7f95e757124302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\688b359a23e8942aa7fd76a69182b32fe26e0883\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_4c5606fcc1b408acd2ae8d9e82ad9d63faa4bdcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_98e5920e0f9b0e1a1b6a707f8402b4f5acf9a5db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\6379d8ef9e427cf94e79361e53225016f55b5316\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_9a3d0135ab06c74fd7c726537e10c5548febf0ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\7403329685c4a0456aee4332672b725bcac4cfa9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_00d994e92b1267a46634d0f951fab8283374f07c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\4765618f5fed3e9f1c86829c77b628603bbfc61d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_c32b1d3e35e39d5e9b52bfc4cdb8b34c8dc2eb17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\a472659dfc6ddd50913be2d21f78b71391ab787a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_41ef5c36d693498356b50e6a1e5c6a4c44541579.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\911151b42f52bb8fda6156bb7a3bd5449740764d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_e7932bd1d8b8d10281ea91b6f59f280aa937b8fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\171b4bc1dd715106f8550be5e9efe2c9dd812eeb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_fe252ec8b4b8392c75d64c9a4541b3b9c39fc6f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\7909bb200dd750d39e63032afee50967394616f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_7a2c56adc73322f8384a93740354be20680321c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\047040dfe5cdc7682037c2e3ddf796272eea3c55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_d1f65c3737d217080486ba34835775497816ae8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjeev gupta\.android\build-cache\85049746f62d45a67b6398f047d47f6b5727de9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="F:\udaciy\CSILNMIIT\app\build\intermediates\pre-dexed\debug\classes_8cdc27a651f8cbec8c6f35345d169f8f963ba356.jar" />
+    </item>
+
+</items>
